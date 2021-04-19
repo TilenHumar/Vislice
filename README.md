@@ -1,5 +1,6 @@
 # Vislice
 
+Projekt vislice za uvod v programiranje
 
 
 
@@ -8,7 +9,4 @@
 
 
 
-
-
-
-Tilen Humar
+Avtor: Tilen Humar
