@@ -11,5 +11,5 @@ Tukaj bo koda za cleoten porjekt.
 
 
 
-Tilen Humar
+
 Avtor: Tilen Humar
